@@ -12,11 +12,11 @@
 
 ## Participantes
 
-| Rol | Participación |
-| --- | --- |
-| Paciente | Necesidades de registro, consulta y control de acceso. |
+| Rol                  | Participación                                                          |
+| -------------------- | ---------------------------------------------------------------------- |
+| Paciente             | Necesidades de registro, consulta y control de acceso.                 |
 | Médico nutricionista | Necesidades de estructura, visualización y uso profesional autorizado. |
-| Analista | Conducción de la entrevista y registro de acuerdos. |
+| Analista             | Conducción de la entrevista y registro de acuerdos.                    |
 
 ## 1. Alcance de la aclaración
 
