@@ -1,14 +1,14 @@
 # Acta de captura de requisitos de UR-05: gestión de datos de salud
 
-| Campo | Valor |
-| --- | --- |
-| Estado | Validada y vigente |
-| Versión | 0.2 |
-| Fecha de la entrevista | No indicada en la fuente |
-| Orden de decisión | Aclaración posterior a A03; prevalece sobre sus formulaciones generales relativas a datos de salud. |
-| Requisito de usuario | UR-05 · El paciente podrá introducir y gestionar sus datos fisiológicos y de salud, accediendo a un historial detallado y actualizando la información según sea necesario. |
-| Fuente | [Entrevista UR-05 (gestión de datos de salud)](https://app.notion.com/p/26118e639c148000aa0ad905b752e0f6) |
-| Finalidad | Precisar la gestión de datos de salud y los requisitos funcionales y no funcionales que pueden derivarse de UR-05. |
+| Campo                  | Valor                                                                                                                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Estado                 | Validada y vigente                                                                                                                                                         |
+| Versión                | 0.2                                                                                                                                                                        |
+| Fecha de la entrevista | No indicada en la fuente                                                                                                                                                   |
+| Orden de decisión      | Aclaración posterior a A03; prevalece sobre sus formulaciones generales relativas a datos de salud.                                                                        |
+| Requisito de usuario   | UR-05 · El paciente podrá introducir y gestionar sus datos fisiológicos y de salud, accediendo a un historial detallado y actualizando la información según sea necesario. |
+| Fuente                 | [Entrevista UR-05 (gestión de datos de salud)](https://app.notion.com/p/26118e639c148000aa0ad905b752e0f6)                                                                  |
+| Finalidad              | Precisar la gestión de datos de salud y los requisitos funcionales y no funcionales que pueden derivarse de UR-05.                                                         |
 
 ## Participantes
 
