@@ -1,8 +1,8 @@
 # Modelo de casos de uso de Proyecto Simbiosis
 
-| Versión | Fecha | Estado |
-| --- | --- | --- |
-| 2.4 | 19/10/2026 | Revisado |
+| Versión | Fecha      | Estado   |
+| ------- | ---------- | -------- |
+| 2.4     | 19/10/2026 | Revisado |
 
 **Iteración de referencia:** E2. Este documento recoge el modelo acumulado después de incorporar la vista de salud y recetas.
 
