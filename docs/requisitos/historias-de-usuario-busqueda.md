@@ -41,14 +41,14 @@
 
 ## Revisión INVEST
 
-| Comprobación | Aplicada | Cumple | Justificación |
-| :--- | :---: | :---: | :--- |
-| **Independiente** | Sí | Sí | Cada historia aporta un método de filtrado que puede implementarse y arrojar un resultado útil sin depender estrictamente de que los demás filtros ya estén programados. |
-| **Negociable** | Sí | Sí | Expresan la necesidad de filtrado pero dejan margen para que el equipo decida la interfaz técnica respetando los acuerdos del acta. |
-| **Valiosa** | Sí | Sí | Cada historia detalla un beneficio directo para el usuario: aprovechar lo que tiene (US-02), evitar lo que le hace daño (US-03) o ir directo a un antojo (US-01). |
-| **Estimable** | Sí | Sí | Los escenarios de éxito, fallo, combinaciones y conflictos están claros en los criterios, lo que permite al equipo estimar la complejidad de las consultas en base de datos. |
-| **Pequeña** | Sí | Sí | Dividen la función general de búsqueda en tres parámetros lógicos manejables (texto, inclusión, exclusión). |
-| **Comprobable** | Sí | Sí | Los nueve criterios incluyen situaciones de partida concretas y resultados del sistema observables, independientes del diseño visual. |
+| Comprobación      | Aplicada | Cumple | Justificación                                                                                                                                                                |
+| :---------------- | :------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Independiente** |    Sí    |   Sí   | Cada historia aporta un método de filtrado que puede implementarse y arrojar un resultado útil sin depender estrictamente de que los demás filtros ya estén programados.     |
+| **Negociable**    |    Sí    |   Sí   | Expresan la necesidad de filtrado pero dejan margen para que el equipo decida la interfaz técnica respetando los acuerdos del acta.                                          |
+| **Valiosa**       |    Sí    |   Sí   | Cada historia detalla un beneficio directo para el usuario: aprovechar lo que tiene (US-02), evitar lo que le hace daño (US-03) o ir directo a un antojo (US-01).            |
+| **Estimable**     |    Sí    |   Sí   | Los escenarios de éxito, fallo, combinaciones y conflictos están claros en los criterios, lo que permite al equipo estimar la complejidad de las consultas en base de datos. |
+| **Pequeña**       |    Sí    |   Sí   | Dividen la función general de búsqueda en tres parámetros lógicos manejables (texto, inclusión, exclusión).                                                                  |
+| **Comprobable**   |    Sí    |   Sí   | Los nueve criterios incluyen situaciones de partida concretas y resultados del sistema observables, independientes del diseño visual.                                        |
 
 **Nota tras la revisión INVEST:**
 Se han modificado los criterios de aceptación para ajustarlos a las observaciones del Notebook de revisión. En US-01 se han retirado la mención a sugerencias ortográficas alternativas y el ordenamiento por fecha para asegurar la trazabilidad estricta. En US-02 (Criterio 3) y US-03 (Criterio 2) se han reescrito los escenarios para eliminar referencias a elementos específicos de la interfaz (como "pantallas" o "listas"), garantizando que las historias describan el comportamiento de forma totalmente independiente de las decisiones de diseño visual.
